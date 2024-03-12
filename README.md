@@ -113,7 +113,7 @@ Welcome to our comprehensive Cisco ASA Firewall Training – the ultimate guide 
    - 9.2 Important Commands
    - 9.3 Common Issues and Solutions
      
-## 10. Best Practices
+## 10. Backup Configurations(TFTP)
    - 10.1 Configuration Backups(TFTP)
 
 ## 11. License
