@@ -107,6 +107,8 @@ Welcome to our comprehensive Cisco ASA Firewall Training – the ultimate guide 
    - 8.2 Clustering
    - 8.3 Multicontexting
    - 8.4 IOS Zone Based Firewall
+   - Cisco ASA Clock Configuration
+   - Cisco ASA Syslog Configuration
 
 ## 9. Troubleshooting
    - 9.1 Logs and Monitoring
