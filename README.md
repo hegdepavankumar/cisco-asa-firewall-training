@@ -1,9 +1,9 @@
 # Cisco ASA Firewall Certification Prep: A Practical Training Guide
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/Images-for-GNS3-and-EVE-NG?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/Images-for-GNS3-and-EVE-NG?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Images-for-GNS3-and-EVE-NG?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG.svg?cache=remove)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/cisco-asa-firewall-training?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/cisco-asa-firewall-training?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/cisco-asa-firewall-training?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/cisco-asa-firewall-training.svg?cache=remove)
 
 <br>
 
