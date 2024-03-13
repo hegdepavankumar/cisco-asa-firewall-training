@@ -129,11 +129,10 @@ Happy Networking and Virtualizing! 🚀
 ## 10. Backup Configurations(TFTP)
    - 10.1 Configuration Backups(TFTP)
 
-## 11. License
-   - 11.1 Repository License Information
+## 11. Labs - EVE-NG Topology with Configuration
+   - 11.1 Basic Lab
 
-## 12. Acknowledgments
-   - 12.1 Credits and Thanks
+
 
   </strong>
 </p>
