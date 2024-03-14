@@ -94,18 +94,18 @@ Happy Networking and Virtualizing! 🚀
 
 ## 6. [VPN Configuration](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/06.VPN%20Configuration.md)
    - [6.1 IPSEC VPN](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/06.VPN%20Configuration.md)
-       - Cisco ASA Site-to-Site IKEv1 IPsec VPN
-       - Cisco ASA Site-to-Site IKEv1 IPsec VPN Dynamic Peer
-       - Cisco ASA Site-to-Site IKEv1 IPsec VPN Dynamic Peers
-       - Cisco ASA Site-to-Site IPsec VPN Digital Certificates
-       - Cisco ASA Site-to-Site IKEv2 IPsec VPN
-       - Cisco ASA Remote Access IPsec VPN
+       - [Cisco ASA Site-to-Site IKEv1 IPsec VPN](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/06.VPN%20Configuration.md)
+       - [Cisco ASA Site-to-Site IKEv1 IPsec VPN Dynamic Peer](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/06.VPN%20Configuration.md)
+       - [Cisco ASA Site-to-Site IKEv1 IPsec VPN Dynamic Peers](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/06.VPN%20Configuration.md)
+       - [Cisco ASA Site-to-Site IPsec VPN Digital Certificates](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/06.VPN%20Configuration.md)
+       - [Cisco ASA Site-to-Site IKEv2 IPsec VPN](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/06.VPN%20Configuration.md)
+       - [Cisco ASA Remote Access IPsec VPN](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/06.VPN%20Configuration.md)
    - [6.2 Remote Access VPNs](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/06.VPN%20Configuration.md)
-       - Clientless or WebVPN (Browser based VPN) 
+       - [Clientless or WebVPN (Browser based VPN)](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/06.VPN%20Configuration.md)
    - [6.3 SSL VPNs](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/06.VPN%20Configuration.md)
-       - Cisco ASA Anyconnect Remote Access SSL VPN
-       - Cisco ASA Self Signed Certificates
-       - Cisco ASA Anyconnect Local CA User Certificates
+       - [Cisco ASA Anyconnect Remote Access SSL VPN](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/06.VPN%20Configuration.md)
+       - [Cisco ASA Self Signed Certificates](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/06.VPN%20Configuration.md)
+       - [Cisco ASA Anyconnect Local CA User Certificates](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/06.VPN%20Configuration.md)
 
 ## 7. High Availability
    - 7.1 Failover Packet Flow
