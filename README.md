@@ -129,7 +129,7 @@ Happy Networking and Virtualizing! 🚀
 ## [10. Backup Configurations(TFTP)](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/10.Backup%20Configurations.md)
    - [10.1 Configuration Backups(TFTP)](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/10.Backup%20Configurations.md)
 
-## [11. Labs - EVE-NG Topology with Configuration](https://github.com/hegdepavankumar/cisco-asa-firewall-training/tree/main/Courses/All%20Labs)
+## [11. Labs - EVE-NG Topology with Configuration](https://github.com/hegdepavankumar/cisco-asa-firewall-training/blob/main/Courses/11.Lab_Topologies.md)
 
 
 
