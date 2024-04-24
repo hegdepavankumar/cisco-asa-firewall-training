@@ -7,10 +7,19 @@
 
 <br>
 
-[![telegram-alerts-join-now-animation-vy7i86cunhc2tsvk](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys/assets/85627085/fd79e514-376d-4d44-9d1a-48d74ae49930)](https://t.me/resourcehub1)
+[![telegram-alerts-join-now-animation-vy7i86cunhc2tsvk](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/assets/85627085/4de78ad2-7338-47ad-a203-6480f0a7db02)](https://t.me/resourcehub1)
 
+Now we are available on Discord: [![icons8-discord-94](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/assets/85627085/9fe97130-09ce-46e7-9b55-58a94c1bb5fe)](https://discord.gg/xJdxdyPg)
 
-# Telegram Group : [click here to join](https://t.me/resourcehub1)
+<br>
+
+# SUPPORT ME -- 🚩💲🙏
+
+### Thank you for checking out my Cisco ASA Firewall training GitHub repo! Your support means a lot to me as I continue to improve and expand this resource for the community. If you found it helpful or valuable, please consider giving it a star ⭐️. And if you'd like to show additional appreciation, consider buying me a coffee ☕️ or sending your best wishes. Thanks for being awesome!
+
+<a href="https://www.buymeacoffee.com/hegdepavankumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hegdepavankumar&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+--- 
+
 🔒 Secure Networks | 🌐 Industry-Ready Skills | 🚀 Career Advancement <br>
 
 Welcome to our comprehensive Cisco ASA Firewall Training – the ultimate guide to mastering the art of network security. Whether you're a beginner looking to understand the basics or an experienced professional seeking advanced configurations, our hands-on course is tailored just for you. <br>
